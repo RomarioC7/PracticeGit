@@ -4,7 +4,7 @@
 
   <groupId>com.ciberfarma</groupId>
   <artifactId>dawi_sesion4</artifactId>
-  <version>0.0.1-SNAPSHOT</version>
+  <version>0.1.1-SNAPSHOT</version>
   <packaging>jar</packaging>
  <properties>
     <maven.compiler.source>1.8</maven.compiler.source>
@@ -42,3 +42,4 @@
   </dependencies>
   
 </project>
+ <!-- Cambio R -->
